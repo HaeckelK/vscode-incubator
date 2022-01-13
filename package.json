@@ -4,6 +4,7 @@
 	"description": "A space for trying out ideas for VS Code extensions.",
 	"version": "0.0.1",
 	"publisher": "HaeckelK",
+	"icon": "images/icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/HaeckelK/vscode-incubator"
